@@ -87,7 +87,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://nuget.org/api/v2": {}
+        "https://nuget.org/api/v2.": {},
+        "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
       },
       "frameworks": {
         "net6.0-android31.0": {
@@ -504,49 +505,49 @@
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Unable to load the service index for source https://nuget.org/api/v2.",
+      "message": "Failed to retrieve information about 'Microsoft.Maui.Dependencies' from remote source 'https://nuget.org/api/v2./FindPackagesById()?id='Microsoft.Maui.Dependencies'&semVerLevel=2.0.0'.",
       "libraryId": "Microsoft.Maui.Dependencies"
     },
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Unable to load the service index for source https://nuget.org/api/v2.",
+      "message": "Failed to retrieve information about 'Microsoft.Maui.Dependencies' from remote source 'https://nuget.org/api/v2./FindPackagesById()?id='Microsoft.Maui.Dependencies'&semVerLevel=2.0.0'.",
       "libraryId": "Microsoft.Maui.Dependencies"
     },
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Unable to load the service index for source https://nuget.org/api/v2.",
+      "message": "Failed to retrieve information about 'Microsoft.Maui.Dependencies' from remote source 'https://nuget.org/api/v2./FindPackagesById()?id='Microsoft.Maui.Dependencies'&semVerLevel=2.0.0'.",
       "libraryId": "Microsoft.Maui.Dependencies"
     },
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Unable to load the service index for source https://nuget.org/api/v2.",
+      "message": "Failed to retrieve information about 'Microsoft.Maui.Dependencies' from remote source 'https://nuget.org/api/v2./FindPackagesById()?id='Microsoft.Maui.Dependencies'&semVerLevel=2.0.0'.",
       "libraryId": "Microsoft.Maui.Dependencies"
     },
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Unable to load the service index for source https://nuget.org/api/v2.",
+      "message": "Failed to retrieve information about 'Microsoft.Maui.Extensions' from remote source 'https://nuget.org/api/v2./FindPackagesById()?id='Microsoft.Maui.Extensions'&semVerLevel=2.0.0'.",
       "libraryId": "Microsoft.Maui.Extensions"
     },
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Unable to load the service index for source https://nuget.org/api/v2.",
+      "message": "Failed to retrieve information about 'Microsoft.Maui.Extensions' from remote source 'https://nuget.org/api/v2./FindPackagesById()?id='Microsoft.Maui.Extensions'&semVerLevel=2.0.0'.",
       "libraryId": "Microsoft.Maui.Extensions"
     },
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Unable to load the service index for source https://nuget.org/api/v2.",
+      "message": "Failed to retrieve information about 'Microsoft.Maui.Extensions' from remote source 'https://nuget.org/api/v2./FindPackagesById()?id='Microsoft.Maui.Extensions'&semVerLevel=2.0.0'.",
       "libraryId": "Microsoft.Maui.Extensions"
     },
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Unable to load the service index for source https://nuget.org/api/v2.",
+      "message": "Failed to retrieve information about 'Microsoft.Maui.Extensions' from remote source 'https://nuget.org/api/v2./FindPackagesById()?id='Microsoft.Maui.Extensions'&semVerLevel=2.0.0'.",
       "libraryId": "Microsoft.Maui.Extensions"
     }
   ]
